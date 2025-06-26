@@ -22,12 +22,6 @@ Welcome to my interactive 3D room portfolio! This project showcases a virtual ro
 -   **gsap**: A JavaScript animation library used for theme transitions. Learn more about [GSAP](https://gsap.com/docs/v3/GSAP/).
 -   **Blender**: Used for creating all 3D models. Discover more about [Blender](https://www.blender.org/).
 
-## Inspiration
-
--   [My Room in 3D by Bruno Simon](https://my-room-in-3d.vercel.app/)
--   [Henry Heffernan Portfolio Showcase by Henry Heffernan](https://henryheffernan.com/)
--   [Jesse's Ramen Shop by Jesse Zhou](https://jesse-zhou.com/)
-
 ## Setup
 
 To run this project locally, download [Node.js](https://nodejs.org/en/download) and follow these steps:
